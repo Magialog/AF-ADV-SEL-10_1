@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[firefox instance created.]]>
+    </line>
+    <line>
+      <![CDATA[URL navigation phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Login phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Campaign tab action phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Create campaign icon action phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Data entry phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Logout phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Script terminated successfully]]>
+    </line>
+    <line>
+      <![CDATA[firefox instance created.]]>
+    </line>
+    <line>
+      <![CDATA[URL navigation phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Login phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Organization tab action phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Create organization icon action phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Data entry phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Logout phase passed]]>
+    </line>
+    <line>
+      <![CDATA[Script terminated successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-10-08T18:40:26 IST" name="Suite" finished-at="2024-10-08T18:43:11 IST" duration-ms="164334">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T18:40:26 IST" name="Test" finished-at="2024-10-08T18:43:11 IST" duration-ms="164334">
+      <class name="testScripts.CreatesAndDeletesNewCampaignTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:40:26 IST" name="beforeSuite" finished-at="2024-10-08T18:40:26 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:40:26 IST" name="beforeTest" finished-at="2024-10-08T18:40:26 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:40:27 IST" name="beforeClass" finished-at="2024-10-08T18:40:51 IST" duration-ms="24430" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[firefox instance created.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:40:51 IST" name="beforeMethod" finished-at="2024-10-08T18:41:02 IST" duration-ms="10467" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL navigation phase passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createAndDeleteOrganization()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:41:02 IST" name="createAndDeleteOrganization" finished-at="2024-10-08T18:41:45 IST" duration-ms="43692" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Campaign tab action phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Create campaign icon action phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Data entry phase passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAndDeleteOrganization -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:41:45 IST" name="afterMethod" finished-at="2024-10-08T18:41:53 IST" duration-ms="8204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Script terminated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:41:53 IST" name="afterClass" finished-at="2024-10-08T18:41:57 IST" duration-ms="3801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:43:11 IST" name="afterTest" finished-at="2024-10-08T18:43:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:testScripts.CreatesAndDeletesNewCampaignTest@4310d43]" started-at="2024-10-08T18:43:11 IST" name="afterSuite" finished-at="2024-10-08T18:43:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- testScripts.CreatesAndDeletesNewCampaignTest -->
+      <class name="testScripts.CreatesAndDeletesNewOrganizationTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testScripts.CreatesAndDeletesNewOrganizationTest@4659191b]" started-at="2024-10-08T18:41:57 IST" name="beforeClass" finished-at="2024-10-08T18:42:12 IST" duration-ms="15010" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[firefox instance created.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testScripts.CreatesAndDeletesNewOrganizationTest@4659191b]" started-at="2024-10-08T18:42:12 IST" name="beforeMethod" finished-at="2024-10-08T18:42:23 IST" duration-ms="11012" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[URL navigation phase passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="createAndDeleteOrganization()[pri:0, instance:testScripts.CreatesAndDeletesNewOrganizationTest@4659191b]" started-at="2024-10-08T18:42:23 IST" name="createAndDeleteOrganization" finished-at="2024-10-08T18:42:58 IST" duration-ms="34876" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Organization tab action phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Create organization icon action phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Data entry phase passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAndDeleteOrganization -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testScripts.CreatesAndDeletesNewOrganizationTest@4659191b]" started-at="2024-10-08T18:42:58 IST" name="afterMethod" finished-at="2024-10-08T18:43:07 IST" duration-ms="9146" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Logout phase passed]]>
+            </line>
+            <line>
+              <![CDATA[Script terminated successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testScripts.CreatesAndDeletesNewOrganizationTest@4659191b]" started-at="2024-10-08T18:43:07 IST" name="afterClass" finished-at="2024-10-08T18:43:11 IST" duration-ms="3442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testScripts.CreatesAndDeletesNewOrganizationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
